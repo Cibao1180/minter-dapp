@@ -78,13 +78,13 @@ const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the
 const PRESALE_WHITELISTED_ADDRESSES = ["0xbcabA2ef566D8035b74e0a884C99DC4572Fd0452"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
-let CONTRACT_ADDRESS = "0xDa2Ed4aC95DD564115cBb72c7B87d88e5d091395"; // If you want to manually include it
+let CONTRACT_ADDRESS = "0xb24D2B1E2A8454abD6Ef8A5DCCa5321042AE7709"; // If you want to manually include it
 
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
 const GENERIC_DESCRIPTION = "Supakatz Collection"; // Replace with what you want the generic descriptions to say.
-const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeiaudztch2g6pipxggbt53kxakc76zawnvqnsya3o5np352hesxgaa"; // Replace with your generic image that will display for all NFTs pre-reveal.
+const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeidrpxjpudslsq4ybgy75rbufjy2rbgsb6xmp6ouwfzu4vpsjnhfhy"; // Replace with your generic image that will display for all NFTs pre-reveal.
 
 // Automatically set contract address if deployed using the deployContract.js script
 try {
