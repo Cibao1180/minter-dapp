@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Supakatz NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Supakatz NFT Project is a decentralized, open-source project that aims to create a community of cats lovers. Some of our goals are to create a rescue center for homeless cats and dogs, a veterinary clinic and pet supply store. <a href="https://twitter.com/RealSupaKatz"  target="_blank" rel="noopener noreferrer">RealSupakatz</a> Twitter.';
+const welcome_p = 'The Supakatz NFT Project is a decentralized, open-source project that aims to create a community of cats lovers. Some of our goals are to create a rescue center for homeless cats and dogs, a veterinary clinic and pet supply store.      <a href="https://supakatz.com"  target="_blank" rel="noopener noreferrer">RealSupakatz</a> Twitter.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
